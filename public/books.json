@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": "123",
+            "title": "Harry Potter",
+            "author": "J.K. Rowling",
+            "isAvailable": false
+        },
+        {
+            "id": "234",
+            "title": "The old man and the sea",
+            "author": "Ernest Hemingway",
+            "isAvailable": false
+        },
+        {
+            "id": "345",
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "isAvailable": true
+        }
+    ]
+}
